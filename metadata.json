@@ -1,0 +1,5 @@
+{
+  "name": "HR Nexus-Pro",
+  "description": "Une application web pour gérer les ressources humaines sur plusieurs filiales avec une gestion fine des rôles et des accès.",
+  "requestFramePermissions": []
+}
